@@ -3,9 +3,9 @@ main = "src/index.ts"
 compatibility_date = "2023-12-18"
 
 [vars]
-TURSO_DB_AUTH_TOKEN = ""
-TURSO_DB_URL = ""
-EMAIL_DOMAIN = "vmail.dev"
+TURSO_DB_AUTH_TOKEN = "eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJhIjoicnciLCJpYXQiOjE3Mjk4NzE1MDksImlkIjoiZjhjMjJjY2EtNmNkYS00ZDY1LTk1NjEtNGVjOWUyOWNhODZiIn0.eanq0AEn5QHWYKARSj_Nzb01Toe2kfDUDE4Maf5W69mmpCgskEMXdCV8jkC7PUdluJ4Bqv1Z-L2lNhrJyUmPDA"
+TURSO_DB_URL = "libsql://vmail-watermelonknight.turso.io"
+EMAIL_DOMAIN = "solo789nomorekfc919293.top"
 
 # [[d1_databases]]
 # binding = "DB"
